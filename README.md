@@ -1,1 +1,1 @@
-# general_project_for_stepik
+Финальны проект stepik.
